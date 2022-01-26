@@ -1,0 +1,15 @@
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\MainWindow.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\App.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer_MarkupCompile.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer_MarkupCompile.lref
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\bin\Debug\mediaPlayer.exe.config
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\bin\Debug\mediaPlayer.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\bin\Debug\mediaPlayer.pdb
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\MainWindow.baml
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.g.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.Properties.Resources.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.csproj.GenerateResource.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\mediaPlayer\obj\Debug\mediaPlayer.pdb

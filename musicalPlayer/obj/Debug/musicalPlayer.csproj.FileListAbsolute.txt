@@ -1,0 +1,15 @@
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\bin\Debug\musicalPlayer.exe.config
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\bin\Debug\musicalPlayer.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\bin\Debug\musicalPlayer.pdb
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\MainWindow.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\App.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer_MarkupCompile.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer_MarkupCompile.lref
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\MainWindow.baml
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.g.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.Properties.Resources.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.csproj.GenerateResource.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\musicalPlayer\obj\Debug\musicalPlayer.pdb

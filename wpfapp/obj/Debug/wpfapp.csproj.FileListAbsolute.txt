@@ -1,0 +1,14 @@
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\bin\Debug\wpfapp.exe.config
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\bin\Debug\wpfapp.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\bin\Debug\wpfapp.pdb
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.csprojAssemblyReference.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\MainWindow.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\App.g.cs
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp_MarkupCompile.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\MainWindow.baml
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.g.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.Properties.Resources.resources
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.csproj.GenerateResource.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.exe
+D:\програмирование\программы\Изучение C#\WPF\wpfapp\wpfapp\obj\Debug\wpfapp.pdb
